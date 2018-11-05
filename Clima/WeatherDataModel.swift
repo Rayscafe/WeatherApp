@@ -12,7 +12,7 @@ class WeatherDataModel {
 
     //Declare your model variables here
     
-    // dd
+    
     //This method turns a condition code into the name of the weather condition image
     
 //    func updateWeatherIcon(condition: Int) -> String {
